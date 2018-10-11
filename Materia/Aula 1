@@ -5,7 +5,7 @@ public class Aula1 {                                        <- Classe
     public static void main(String[] args) {                <- Método
     
         System.out.print("Olá mundo!");                     <- Escrever
-        System.out.print("Olá mundo!");                     <- Escrever pulando linha
+        System.out.println("Olá mundo!");                     <- Escrever pulando linha
     }
     
 }
