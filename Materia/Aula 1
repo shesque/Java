@@ -1,1 +1,11 @@
+package aula.pkg1;                                          <- Pacote
 
+public class Aula1 {                                        <- Classe
+
+    public static void main(String[] args) {                <- Método
+    
+        System.out.print("Olá mundo!");                     <- Escrever
+        System.out.print("Olá mundo!");                     <- Escrever pulando linha
+    }
+    
+}
