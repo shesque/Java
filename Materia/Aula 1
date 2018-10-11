@@ -9,3 +9,11 @@ public class Aula1 {                                        <- Classe
     }
     
 }
+
+
+
+                ~CamelCase~
+PrimeiraAula                                                <- Sempre indica uma CLASSE ou uma INTERFACE (primeira letra maiusucula)
+primeiraAula                                                <- Pode ser um ATRIBUTO, VARIAVEL ou um MÉTODO
+meu_pacote                                                  <- Tudo minuscula indica um PACOTE
+CONSTANTE                                                   <- tudo maiusculo indica uma CONSTANTE
